@@ -1,0 +1,591 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mx",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"bds",
+				"border-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"te",
+				"Set Syntax: Textile"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 462.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mopo/OneDrive/_projects/egiasargsyan.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/mopo/OneDrive/_projects/test/index.html",
+		"/C/totalcmd/programs/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mopo/OneDrive/_projects/test/style.css",
+		"/C/Users/mopo/OneDrive/_projects/_base_styles.txt",
+		"/C/Users/mopo/OneDrive/_projects/_base_css.txt",
+		"/C/Users/mopo/OneDrive/_projects/test/base_css.txt",
+		"/C/Users/mopo/OneDrive/_projects/style.css",
+		"/C/Users/mopo/OneDrive/_projects/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/homework/menu-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/homework/menu.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/style.css",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/primer/style.css",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/primer/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/homework/style.css",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/homework/index - Copy.html",
+		"/C/Users/mopo/Desktop/demo/module-10/float.html",
+		"/C/Users/mopo/Desktop/labs/form/form.html",
+		"/C/Users/mopo/Desktop/demo/module-9/forms.html",
+		"/C/Users/mopo/Desktop/demo/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/index1_1-5_2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-9/forms.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/form/form.html",
+		"/C/Users/mopo/Desktop/labs/style.css",
+		"/C/Users/mopo/Desktop/demo/module-8/article-2.html",
+		"/C/Users/mopo/Desktop/demo/module-8/article-1.html",
+		"/C/Users/mopo/Desktop/demo/module-8/iframe.html",
+		"/C/Users/mopo/Desktop/labs/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-8/iframe.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/display.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/float.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/visitka.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/maket.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/position.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-10/zIndex.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/index-1_1-5_2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-9/forms.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-8/iframe.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-8/article-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-8/article-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-8/article-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-8/article-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-7/tables-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/time-tables/php.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-7/tables-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/time-tables/php.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-7/tables.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-7/tables.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/content/news.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-6/list-ul.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-6/list-ol.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-6/list-dl.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/style_test.css",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/content/certificat.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/content/test.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/content/distance.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/content/events.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/style.css",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/content/certificat - Copy.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/content/certificat - Copy.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/content/distance.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/content/certificat.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/content/events.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/content/news.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/labs/content/test.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-3/links-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-3/links-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-3/links-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-3/links-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-3/article-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS/html/demo/module-3/article-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-3/arts/article-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-3/article-2.html",
+		"/C/Users/mopo/Desktop/index.html",
+		"/C/Users/mopo/Desktop/_2/index_01.html",
+		"/C/Users/mopo/Desktop/_2/index_02.html",
+		"/C/Users/mopo/Desktop/_2/index_03.html",
+		"/C/Users/mopo/Desktop/_2/index_04.html",
+		"/C/Users/mopo/Desktop/_2/index_05.html",
+		"/C/Users/mopo/Desktop/_2/index_06.html",
+		"/C/Users/mopo/Desktop/_2/index_07.html",
+		"/C/Users/mopo/Desktop/_2/index_08.html",
+		"/C/Users/mopo/Desktop/_2/index_09.html",
+		"/C/Users/mopo/Desktop/_2/index_10.html",
+		"/C/Users/mopo/Desktop/_2/index_1.html",
+		"/C/Users/mopo/Desktop/_2/index_002.html",
+		"/C/Users/mopo/Desktop/_2/index_003.html",
+		"/C/Users/mopo/Desktop/_2/index_004.html",
+		"/C/Users/mopo/Desktop/_2/index_005.html",
+		"/C/Users/mopo/Desktop/_2/index_006.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/time-tables/web.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/labs/time-tables/js.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/html/demo/module-7/tables - Copy.html",
+		"/C/Users/mopo/Desktop/style.css",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/index.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/content/news.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/content/certificat.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/content/events.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/content/distance.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/content/test.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-8/iframe.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-8/article-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-8/article-2.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-7/tables.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/time-tables/php.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/time-tables/js.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/labs/time-tables/web.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-6/list-ul.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-6/list-ol.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-6/list-dl.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-3/links-1.html",
+		"/C/Users/mopo/Desktop/HTML_CSS_1_2014/demo/module-3/links-2.html",
+		"/C/Users/mopo/Desktop/tables_test.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/labs/content/test.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/labs/content/distance.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/labs/content/events.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/labs/content/certificat.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/labs/content/news.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/demo/module-3/arts/article-2.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/demo/module-3/article-1.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/demo/module-3/links-2.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/demo/module-3/links-1.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/demo/module-6/list-dl.html",
+		"/C/Users/mopo/Videos/Courses/HTML_CSS_1_2014/html/demo/module-6/list-ol.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subboxim",
+			"large",
+			"subboxtxt",
+			"subboximg",
+			"20px",
+			"inline",
+			"ccc",
+			"background",
+			"center",
+			"right",
+			"fixed",
+			"Blog",
+			" is_dropdown",
+			"arrow-",
+			"up",
+			"width",
+			"col-down",
+			";\n",
+			"border",
+			"footer_text",
+			"</<",
+			"<<",
+			">>",
+			"div",
+			"Б.евЮ",
+			"<--",
+			"\"",
+			"\\",
+			"Georgia",
+			"silver",
+			"<h",
+			"<br><a>",
+			"'",
+			"p",
+			"</br>",
+			";}",
+			"</td>",
+			" </td>",
+			"<td>",
+			"            <",
+			"text-align",
+			"<",
+			"<br> <!--",
+			"(R)",
+			"\"Специалист\"",
+			"npsp;",
+			"Nea?aou :: ",
+			"Nea?aou",
+			"/post/.+/"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"col__col-down",
+			"footer_text_links",
+			"</",
+			"<",
+			">",
+			"<li>",
+			"</td>",
+			"<!--",
+			"<a><br>",
+			"\"",
+			"<br>",
+			"</td></tr>",
+			"<tr><td>",
+			"<br><!--",
+			"&reg;",
+			"<q>Специалист</q>",
+			"nbsp;",
+			" :: ",
+			"Скачать"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_website.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"css",
+				"style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"cs",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\mopo\\OneDrive\\_projects\\test_shopify\\test_shopify.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
